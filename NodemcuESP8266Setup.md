@@ -24,7 +24,7 @@ Follow these steps to set up the Arduino IDE for programming the ESP8266 NodeMCU
 
 3. **Installing ESP8266 Board Package**:
    - Go to `Tools` > `Board` > `Boards Manager...`.
-   - Search for `esp8266` and install the package named (Recommended Version 2.7.3)`esp8266 by ESP8266 Community`.
+   - Search for `esp8266` and install the package named (Recommended Version 2.7.3) `esp8266 by ESP8266 Community`.
    - Once the installation is complete, close the Boards Manager window.
 
 4. **Selecting ESP8266 Board**:
@@ -50,3 +50,6 @@ Follow these steps to set up the Arduino IDE for programming the ESP8266 NodeMCU
 You have successfully set up the Arduino IDE to work with the ESP8266 NodeMCU board. You can now start building IoT projects and experimenting with the vast capabilities of the NodeMCU platform. 
 
 ❤︎ Happy coding! 
+By Beehive
+
+Referal Links - https://www.wch-ic.com/downloads/CH341SER_ZIP.html
